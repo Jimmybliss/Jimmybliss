@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Jimmybliss
-- 👀 I’m interested in web and app development
-- 🌱 I’m currently learning python, HTML and CSS
-- 💞️ I’m looking to collaborate on app development
+- 👀 I'm a builder and that's what I do I build
 - 📫 How to reach me mafiejimmy@gmail.com
 
 <!---
